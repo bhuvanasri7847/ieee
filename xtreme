@@ -1,0 +1,4 @@
+def Message_to_ieee():
+    Message = "Hello IEEEXtreme team! Thank you for organizing such an amazing event. Your dedication and hard work inspire us to push our limits and innovate.Wishing you all the best as you support the participants!"
+    return Message
+print(Message_to_ieee())
